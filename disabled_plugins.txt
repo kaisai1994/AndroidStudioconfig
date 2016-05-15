@@ -1,0 +1,2 @@
+com.codota.csp.intellij
+GradleDependenciesHelper
